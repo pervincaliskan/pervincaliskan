@@ -2,17 +2,19 @@
 <h1 align="center">
    Welcome to My GitHub Page
   
-  
+ 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  </h1>
-  
+
+   
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Homo+sapiens;I+am+Pervin+Çalışkan;Computer+Engineering+Student&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=25">
+   
+  
 </p>
 <div align="center">
 </p><img align src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" width="500" heigh="320/></p>
 </div>
-<h1 align="center">
+
   
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=pervincaliskan&show_icons=true&theme=radical)
 </div>
@@ -39,11 +41,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pervincaliskan&layout=compact&theme=radical" width="500" heigh="320/>
 </a>
 </div>
-
+  <h1 align="center">
+  
+   ![snake gif](https://github.com/pervincaliskan/pervincaliskan/blob/output/github-contribution-grid-snake.gif) 
 <hr />
   
+            
   
-![snake gif](https://github.com/pervincaliskan/pervincaliskan/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
