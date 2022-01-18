@@ -7,7 +7,7 @@
   </h1>
   
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Homo+sapiens;I+am+Pervin+Çalışkan;I+am+developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Homo+sapiens;I+am+Pervin+Çalışkan;Computer+Engineering+Student&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=25">
 </p>
 <div align="center">
 <img src=https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966>
