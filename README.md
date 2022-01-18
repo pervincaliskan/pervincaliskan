@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=pervincaliskan&show_icons=true&theme=gradient
 
 <!--
 **pervincaliskan/pervincaliskan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
