@@ -16,12 +16,13 @@
 <div align="center">
 </p><img align src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" width="500" heigh="320/></p>
 </div>
-
+   
+<div align="center">
   
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=pervincaliskan&show_icons=true&theme=radical)
 </div>
-  
-  <div align="center">
+
+<div align="center">
 <a href="https://github.com/pervincaliskan/github-profile-views-counter">
     <img align="center" src="https://komarev.com/ghpvc/?username=pervincaliskan&color=f75c7e">
 </a>
