@@ -45,6 +45,8 @@
 </a>
 </div>
   <h1 align="center">
+                    
+                    
   ![snake gif](https://github.com/pervincaliskan/pervincaliskan/blob/output/github-contribution-grid-snake.gif) 
 <hr />
   
