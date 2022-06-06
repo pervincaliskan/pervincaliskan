@@ -34,14 +34,14 @@
   <div align="center">
 </div>
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=pervincaliskan&theme=radical&date_format=j%20M%5B%20Y%5D" width="500" heigh="320/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=pervincaliskan&theme=radical&date_format=j%20M%5B%20Y%5D"  width="400" heigh="220/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   
   <div align="center">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pervincaliskan&layout=compact&theme=radical" width="500" heigh="320/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pervincaliskan&layout=compact&theme=radical"  width="400" heigh="220/>
 </a>
 </div>
   <h1 align="center">
