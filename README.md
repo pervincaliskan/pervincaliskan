@@ -46,11 +46,11 @@
 </div>
 
 </table>
-  
+   <div align="center">
                                      
-  <div align="center"> < img src= "https://github.com/pervincaliskan/pervincaliskan/blob/output/github-contribution-grid-snake.svg"/> </div>
+  <div align="center"> < img src="https://github.com/pervincaliskan/pervincaliskan/blob/output/github-contribution-grid-snake.svg"/> </div>
 
-  
+  </div>
             
   
 
