@@ -44,10 +44,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pervincaliskan&layout=compact&theme=radical"  width="400" heigh="220/>
 </a>
 </div>
+
 </table>
-  <div align="center">
+  
                                      
-  <div align="center">< img src= "https://github.com/pervincaliskan/pervincaliskan/blob/output/github-contribution-grid-snake.svg"/> </div>
+  <div align="center"> < img src= "https://github.com/pervincaliskan/pervincaliskan/blob/output/github-contribution-grid-snake.svg"/> </div>
 
   
             
