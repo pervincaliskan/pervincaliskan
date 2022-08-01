@@ -47,8 +47,8 @@
 </table>
   <div align="center">
                                      
-  <div align="center">![snake gif](https://github.com/pervincaliskan/pervincaliskan/blob/output/github-contribution-grid-snake.gif) </div>
-<hr />
+  <div align="center">< img src= "https://github.com/pervincaliskan/pervincaliskan/blob/output/github-contribution-grid-snake.svg"/> </div>
+
   
             
   
