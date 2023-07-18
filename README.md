@@ -30,7 +30,7 @@
         <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source"><img align="left" width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=pervincaliskan&theme=react&border=61dafb&hide_border=true" alt="pervincaliskan" /></a>
       </p>
     </br>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pervincaliskan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+ 
 
   </div>
 
@@ -45,16 +45,6 @@
 </a>
   
   
-  <div align="center">
-</div>
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=pervincaliskan&theme=radical&date_format=j%20M%5B%20Y%5D"  width="400" heigh="220/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  
-  <div align="center">
-
-</div>
 
 </table>
   
