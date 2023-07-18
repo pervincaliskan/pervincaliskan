@@ -13,7 +13,7 @@
     <br>
                    📫 How to reach me: <a href="mailto: pervincaliskan01@hotmail.com">pervincaliskan01@hotmail.com</a> 
   </p>
-<div style="margin-bottom:10px;margin:top:10px;height:170px">>
+<div style="margin-bottom:10px;margin:top:10px;height:170px">
 </p>
    
    </p>
