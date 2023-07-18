@@ -31,8 +31,7 @@
       </p>
     </br>
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pervincaliskan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-    </br>
-    <img src="https://raw.githubusercontent.com/pervincaliskan/pervincaliskan/output/ocean.svg" alt="GitHub Snake" width="100%"/>
+
   </div>
 
    
