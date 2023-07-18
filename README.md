@@ -23,10 +23,10 @@
       <p valign="top" width="32%;" height="180px">
         <a href="https://github.com/anuraghazra/github-readme-stats"><img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pervincaliskan&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/></a>
       </p>
-      <p valign="top" width="32%" height="220px">
+      <p valign="top" width="36%" height="180px">
         <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="left" width="30%" src="https://github-readme-stats.vercel.app/api?username=pervincaliskan&show_icons=true&theme=react&border_color=61dafb&hide_border=true" /></a>
       </p>
-      <p valign="top" width="32%" height="180px">
+      <p valign="top" width="36%" height="180px">
         <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source"><img align="left" width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=pervincaliskan&theme=react&border=61dafb&hide_border=true" alt="pervincaliskan" /></a>
       </p>
     </br>
