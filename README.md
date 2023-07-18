@@ -8,11 +8,12 @@
    
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Homo+sapiens;I+am+Pervin+Çalışkan;Computer+Engineering+Student&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=25">
-  <p style ="text-align:center">   
-   
+  <p align="center">   
+      </h5>
     <br>
                    📫 How to reach me: <a href="mailto: pervincaliskan01@hotmail.com">pervincaliskan01@hotmail.com</a> 
   </p>
+
 <div style="margin-bottom:10px;margin:top:10px;height:170px">
 </p>
    
