@@ -14,14 +14,28 @@
                    📫 How to reach me: <a href="mailto: pervincaliskan01@hotmail.com">pervincaliskan01@hotmail.com</a> 
   </p>
 <div>
-</p><img align src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" width="400" heigh="220/></p>
+</p>
+   <img alialgn="center" align="center"src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" width="400" heigh="220/></p>
 </div>
-      
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pervincaliskan" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pervincaliskan&layout=compact&langs_count=8&card_width=320" />
+  <h2 align="center">⚡ Stats ⚡</h2>
+  <br>
+  <div style="margin-bottom:10px;margin:top:10px;height:170px">
+      <p valign="top" width="32%;" height="180px">
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pervincaliskan&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/></a>
+      </p>
+      <p valign="top" width="32%" height="180px">
+        <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="left" width="30%" src="https://github-readme-stats.vercel.app/api?username=pervincaliskan&show_icons=true&theme=react&border_color=61dafb&hide_border=true" /></a>
+      </p>
+      <p valign="top" width="32%" height="180px">
+        <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source"><img align="left" width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=pervincaliskan&theme=react&border=61dafb&hide_border=true" alt="pervincaliskan" /></a>
+      </p>
+    </br>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pervincaliskan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+    </br>
+    <img src="https://raw.githubusercontent.com/pervincaliskan/pervincaliskan/output/ocean.svg" alt="GitHub Snake" width="100%"/>
+  </div>
+
+   
 </a>
 <div align="center">
 <a href="https://github.com/pervincaliskan/github-profile-views-counter">
