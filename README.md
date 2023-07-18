@@ -19,7 +19,7 @@
    
 <div align="center">
   
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=pervincaliskan&show_icons=true&theme=radical)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=pervincaliskan&show_icons=true&theme=gradient)
 </div>
 
 <div align="center">
