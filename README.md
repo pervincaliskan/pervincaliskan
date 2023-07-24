@@ -53,8 +53,8 @@
 </a>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<p align="right">
 <a href="https://twitter.com/https://twitter.com/pervin_peri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/pervin_peri" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pervincaliskan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pervincaliskan/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14799800/pervin-%c3%87al%c4%b1%c5%9fkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14799800/pervin-%c3%87al%c4%b1%c5%9fkan" height="30" width="40" /></a>
