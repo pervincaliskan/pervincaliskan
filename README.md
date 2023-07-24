@@ -43,6 +43,7 @@
    
 </a>
 <br>
+<br>
 <div >
 <a href="https://github.com/pervincaliskan/github-profile-views-counter">
     <img align="center" src="https://komarev.com/ghpvc/?username=pervincaliskan&color=f75c7e">
