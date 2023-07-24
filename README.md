@@ -51,7 +51,7 @@
 <a href="https://github.com/pervincaliskan?tab=followers">
     <img align="left"  src="https://img.shields.io/github/followers/pervincaliskan?style=flat-square&color=f75c7e">
 </a>
-  <h3 align="center">A passionate frontend developer from India</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
