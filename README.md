@@ -29,7 +29,7 @@
       <p valign="top" width="32%;" height="180px">
         <a href="https://github.com/anuraghazra/github-readme-stats"><img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pervincaliskan&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=e31f80&text_color=ffffff&icon_color=d33b86&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/></a>
       </p>
-      <p valign="top" width="45%">
+      <p valign="top" width="45%" height="100px">
         <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="left" width="30%" src="https://github-readme-stats.vercel.app/api?username=pervincaliskan&show_icons=true&theme=react&border_color=e31f80&hide_border=true" /></a>
       </p>
       <p valign="top" width="45%" height="180px">
