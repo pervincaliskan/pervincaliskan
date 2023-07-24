@@ -54,7 +54,7 @@
 
 <br>
 <br>
-🌱 I’m currently learning **JavaScript**
+<p align="left">🌱 I’m currently learning **JavaScript**</p>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
