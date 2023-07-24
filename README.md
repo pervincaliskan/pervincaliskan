@@ -35,7 +35,7 @@
       <p valign="top" width="32%" height="180px">
         <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source"><img align="left" width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=pervincaliskan&theme=react&border=e31f80&hide_border=true" alt="pervincaliskan" /></a>
       </p>
-    </br>
+    
  
 
   </div>
