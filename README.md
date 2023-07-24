@@ -43,13 +43,13 @@
    
 </a>
 <br>
-<br>
+
 <div >
 <a href="https://github.com/pervincaliskan/github-profile-views-counter">
-    <img align="center" src="https://komarev.com/ghpvc/?username=pervincaliskan&color=f75c7e">
+    <img align="left" src="https://komarev.com/ghpvc/?username=pervincaliskan&color=f75c7e">
 </a>
 <a href="https://github.com/pervincaliskan?tab=followers">
-    <img align="center"  src="https://img.shields.io/github/followers/pervincaliskan?style=flat-square&color=f75c7e">
+    <img align="left"  src="https://img.shields.io/github/followers/pervincaliskan?style=flat-square&color=f75c7e">
 </a>
   
   
