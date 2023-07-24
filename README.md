@@ -1,4 +1,5 @@
-### Hi there, I'm Pervin Çalışkan👋
+   
+  <p align="center">### Hi there, I'm Pervin Çalışkan👋 </p>
 <h1 align="center">
    Welcome to My GitHub Page
   
