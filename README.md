@@ -58,9 +58,13 @@
 <p style="text-align: left;"><strong>🌱 I’m currently learning JavaScript</strong></p>
 
 <br>
-<h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://twitter.com/pervin_peri" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pervin_peri" height="30" width="40" /></a>
+<h3 style="text-align: left;">Connect with me:</h3>
+<p style="text-align: left;">
+  <a href="https://twitter.com/pervin_peri" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pervin_peri" height="20" width="20" style="vertical-align: middle;" />
+  </a>
+  Follow me on Twitter: <a href="https://twitter.com/pervin_peri" target="_blank">pervin_peri</a>
+</p>
 
 </p>
 <br>
