@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Homo+sapiens;I+am+Pervin+Çalışkan;Computer+Engineering+Student&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=25">
  
 
-📫 How to reach me: <a href="mailto:pervincaliskan01@hotmail.com" style="font-size: 14px;">pervincaliskan01@hotmail.com</a>
+📫 How to reach me: <a href="mailto:pervincaliskan01@hotmail.com" style="font-size: 5px;">pervincaliskan01@hotmail.com</a>
 
 
 
