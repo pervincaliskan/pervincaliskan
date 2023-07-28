@@ -10,8 +10,15 @@
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Homo+sapiens;I+am+Pervin+Çalışkan;Computer+Engineering+Student&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=25">
  
-    
-  <p align="center">                     📫 How to reach me: <a href="mailto: pervincaliskan01@hotmail.com"; font-size: 10px >pervincaliskan01@hotmail.com</a> 
+    <style>
+  .contact-info {
+    font-size: 14px; /* Buradaki değeri istediğiniz boyuta göre değiştirebilirsiniz */
+  }
+</style>
+
+📫 How to reach me: <a href="mailto:pervincaliskan01@hotmail.com" class="contact-info">pervincaliskan01@hotmail.com</a>
+
+  <p align="center">                     📫 How to reach me: <a href="mailto: pervincaliskan01@hotmail.com">pervincaliskan01@hotmail.com</a> 
   </p>
 
 <div style="margin-bottom:10px;margin:top:10px;height:170px">
