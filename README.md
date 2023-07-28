@@ -64,9 +64,7 @@
   </a>
   Follow me on Twitter: <a href="https://twitter.com/pervin_peri" target="_blank">pervin_peri</a>
 </p>
-
 <br>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
