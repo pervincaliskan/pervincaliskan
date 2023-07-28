@@ -55,7 +55,8 @@
 
 <br>
 <br>
-<p align="left">🌱 I’m currently learning **JavaScript**</p>
+<p style="text-align: left;"><strong>🌱 I’m currently learning JavaScript</strong></p>
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://twitter.com/pervin_peri" target="blank">
