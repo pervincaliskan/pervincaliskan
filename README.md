@@ -55,7 +55,7 @@
 
 <br>
 <br>
-<p style="text-align: left; font-size: 10px;"><strong>🌱 I’m currently learning JavaScript</strong></p>
+<p style="text-align: left; font-size: 10px;"><strong>🌱 I’m currently learning JavaScript and Swift</strong></p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
