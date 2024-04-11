@@ -46,11 +46,9 @@
 <a href="https://github.com/pervincaliskan?tab=followers">
     <img align="left"  src="https://img.shields.io/github/followers/pervincaliskan?style=flat-square&color=f75c7e">
 </a>
-<div>
-   <br>
-<hr>
-</div>
 
+<hr>
+<hr>
 <p style="text-align: left; font-size: 10px;"><strong>🌱 I’m currently learning JavaScript</strong></p>
 
 <h3 align="center">Languages and Tools:</h3>
