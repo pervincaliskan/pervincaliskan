@@ -46,7 +46,7 @@
 <a href="https://github.com/pervincaliskan?tab=followers">
     <img align="left"  src="https://img.shields.io/github/followers/pervincaliskan?style=flat-square&color=f75c7e">
 </a>
-
+<br>
 <hr>
 <p style="text-align: left; font-size: 10px;"><strong>🌱 I’m currently learning JavaScript</strong></p>
 
@@ -75,8 +75,7 @@
 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
-              - name: generate-snake-game-from-github-contribution-grid
-                uses: Platane/snk@v3.2.0
+           
             
 
 
